@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caleb (@dCO2)
 - 👀 I’m interested in Data, Optimization, and Crypto systems.
 - 🌱 I’m currently learning Data/Systems Engineering and Cryptoeconomics.
-- 💞️ I’m looking to collaborate on awe projects!
+- 💞️ I’m looking to collaborate on awesome projects!
 - 📫 How to reach me: Twitter @rojaye_shegz; Substack _@Essayin' Ship!_ (the newsletter)
 
 <!---
