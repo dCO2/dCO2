@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caleb (@dCO2)
 - 👀 I’m interested in Data, Optimization, and UI systems.
-- 🌱 I’m currently learning Data, Systems & Front-end Engineering.
+- 🌱 I’m currently working on Data, Systems & Front-end Engineering.
 - 💞️ I’m looking to collaborate on awesome projects!
 
 <!---
